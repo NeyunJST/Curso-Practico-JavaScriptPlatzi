@@ -1,0 +1,20 @@
+Capacidad de endeudamiento:
+Los bancos en el Perú realizan prestamos a personas que ganen s/.1800 a más, demostrando su constancia en su planilla
+de 6 meses como minimo o de trabajar solo, con otra cosa pe.
+
+la capacidad de endeudamiento de una persona, es la de 1/3 de su sueldo, si sus gastos exceden los 2/3, 
+es posible el exceso de gastos, lo que lo vuelve automaticamente no apta.
+
+sueldo: Dinero que resive la persona consultora de manera mensual y constante
+servicio basicos: servicios regulados por entidades publicas.
+alimentacion: gasto mensual por comida. promedio en peru s/.350 
+otros gastos: cualquier gasto constante mensual que se realice, sumado
+sueldo - (servicios basicos + alimentacion + otros gastos) = Sueldo liquido(SL)
+sueldo/3 = ideal de inversion(II).
+
+SL - II = Capacidad de Endeudamiento(CE)
+
+si el CE es menor a cero, entonces no tiene capacidad de endeudamiento.
+si el CE es igaul o mayo a cero, es capas de adquirir un credito, hasta el monto referido. 
+
+
