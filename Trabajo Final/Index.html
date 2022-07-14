@@ -1,12 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Posibilidad de Credito</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <section class="container">
+        <div class="form-container">
+            <div class="title-container">
+                <h1 class="title">Comprueba si estas Apto para sacar un Credito</h1>
+            </div>
+            <form action="" class="form">
+                <label for="salary" class="form-label">Sueldo</label>
+                <input type="number" id="salary" class="form-input">
+                
+                <label for="services" class="form-label">Servicios Basicos</label>
+                <input type="number" id="services" class="form-input">
+                
+                <label for="foods" class="form-label">Alimentación</label>
+                <input type="number" id="foods" class="form-input">
+                
+                <label for="others" class="form-label">Otros Gastos</label>
+                <input type="number" id="others" class="form-input">
+                <button class="btn-result">Click par ver resulado</button>
+            </form>
+            <div class="result">
+                <p>Respuesta:</p>
+            </div>
+        </div>
+    </section>
+    <script src="./capacidad-endeudamiento.js"></script>
 </body>
 </html>
